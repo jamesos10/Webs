@@ -1,0 +1,9 @@
+body { background-color: #FFEFD5;}
+p { border-left: 5px double red;
+    border-right: 5px dashed yellow;
+    border-top: 10px dotted blue; 
+    border-bottom: 10px ridge green; 
+    color: #00FA9A; 
+    font-size: 50px ; 
+    text-align: center ;
+    padding: 100px 300px 200px 50px;}

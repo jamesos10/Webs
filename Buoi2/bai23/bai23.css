@@ -1,0 +1,9 @@
+body {text-align: center;}
+caption {color: #FF1493;
+        font-size: 20px;}
+table {background-color: #7FFFD4;
+        border: double 5px #0000CD;
+        border-collapse:collapse ;}
+th,tr,td {border: solid #0000CD;
+    color: #D2691E;
+    padding: 10px ;}

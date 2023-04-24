@@ -1,0 +1,9 @@
+h3 {color: #FF4500;
+    font-size: 30px;
+    text-align: center ;}
+p {color: #FFA500;
+font-size: 20px;
+column-count: 4 ;
+column-rule-style: dotted ;
+column-rule-color: 5px #FF6347  ;
+column-width: ;}
