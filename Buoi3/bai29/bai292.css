@@ -1,0 +1,27 @@
+body {background-color: green;}
+
+nav {background-color: rgb(138, 104, 141);
+    width: 100%;
+    height: 10%;}
+
+header {background-color: orange;
+        width: 100%;
+        height: 15%;
+        color: white;
+        font-size: 50;
+        text-align: center;}
+
+aside {background-color: tomato;
+        width: 100%;
+        height: 15%;}
+article {background-color: oldlace;
+        height: 40%;
+        padding: 10px;}
+td {border: solid magenta;
+    height: 360;
+    width: 1233px;
+    }
+tr { text-align: center;}
+
+footer {background-color: violet;
+height: 15%;}
