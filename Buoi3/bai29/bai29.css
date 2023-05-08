@@ -1,0 +1,30 @@
+body {background-color: gray;}
+header {background-color: aqua; 
+        width: 100%;
+        height: 10%;
+        color: white;
+        }
+
+nav {background-color: white;
+    width: 100%;
+    height: 5%;}
+
+.a1 {background-color: aquamarine;
+        width: 100%;
+        height: 10%;
+    }
+
+.a2 {background-color: blue;
+    width: 30%;
+    height: 44%;
+    float: left;}
+
+article {background-color: orange;
+        width: 100%;
+        height: 400px;
+        float: center;}
+
+footer {background-color: brown;
+        width: 100%;
+        height: 290px;
+        }
